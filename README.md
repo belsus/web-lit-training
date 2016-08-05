@@ -7,7 +7,7 @@ Participants can fork this repo and then choose a project template to edit on th
 
 ## Fork this repo:
 
-Click the "Fork" button in the top right of this page
+# Click the "Fork" button in the top right of this page
 
 ![fork](https://cloud.githubusercontent.com/assets/8389648/15445397/a15a3cdc-1eb2-11e6-93eb-42fc3d57f1e9.png)
 
